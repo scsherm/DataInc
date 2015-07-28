@@ -1,2 +1,0 @@
-# DataInc
-Data Incubator
